@@ -1,0 +1,13 @@
+# depslib dependency file v1.0
+1748218615 source:c:\users\danny\downloads\my_c_applications\udemy_courses\practices_applications\salarycalculator\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1746764528 source:c:\users\danny\downloads\my_c_applications\udemy_courses\practices_applications\salarycalculator\function.c
+	<stdio.h>
+
+1748218648 source:c:\users\danny\downloads\my_c_applications\udemy_courses\practices_applications\myprojects\salarycalculator\function.c
+	<stdio.h>
+	<math.h>
+	<stdlib.h>
+
