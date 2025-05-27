@@ -1,0 +1,12 @@
+#include <stdio.h>
+#include <stdlib.h>
+#include <stddef.h>
+int main()
+{
+    printf("Print the Size of Char :%zu\n",sizeof(char));
+    printf("Print the Size of Short int :%zu\n",sizeof(short int));
+    printf("Print the Size of int :%zu\n",sizeof(int));
+    printf("Print the Size of Float :%zu\n",sizeof(float));
+    printf("Print the Size of Double :%zu\n",sizeof(double));
+    return 0;
+}
